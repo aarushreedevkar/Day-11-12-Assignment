@@ -6,7 +6,7 @@
 
         public static void Main(string[] args)
         {
-         string Path = 
+         string Path = C:\Users\test\Desktop\BridgelabzTutorials\DataInventoryManagement1\DataInventoryManagement1\Inventory.json
          FetchJsonForRice fetchJsonforRice = new FetchJsonForRice();
          fetchJsonForRice.Read(Path)
       
